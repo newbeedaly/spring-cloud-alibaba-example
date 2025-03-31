@@ -1,4 +1,4 @@
-package cn.newbeedaly.alibaba.user.mq;
+package cn.newbeedaly.alibaba.order.adaptor.mq;
 
 import com.alibaba.fastjson.JSON;
 import lombok.extern.slf4j.Slf4j;

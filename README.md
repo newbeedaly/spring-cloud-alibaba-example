@@ -14,14 +14,11 @@
 
 ##### 2. 启动项目
 
-1.执行sql在sca和sca-order库
+1. nacos配置文件order-dev.yaml
 
-2.nacos配置文件order-dev.yaml
-
-3.启动服务
+2. 启动服务
     commodity
-    file
-    gateway
     order
+    gateway
 
 
